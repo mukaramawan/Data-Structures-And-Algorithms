@@ -3,12 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/Data-Structures-And-Algorithms/src/DSA/LinkedLists/CircularLinkedList.java</file>
-            <file>file:/D:/Data-Structures-And-Algorithms/src/DSA/LinkedLists/SinglyLinkedList2.java</file>
-            <file>file:/D:/Data-Structures-And-Algorithms/src/DSA/Stack/Stack.java</file>
-            <file>file:/D:/Data-Structures-And-Algorithms/src/DSA/main.java</file>
-            <file>file:/D:/Data-Structures-And-Algorithms/src/DSA/LinkedLists/DoublyLinkedList.java</file>
-            <file>file:/D:/Data-Structures-And-Algorithms/src/DSA/Stack/Stack2.java</file>
+            <file>file:/C:/Users/mukar/OneDrive/Desktop/Data-Structures-And-Algorithms/src/DSA/Queue/CircularQueue.java</file>
+            <file>file:/C:/Users/mukar/OneDrive/Desktop/Data-Structures-And-Algorithms/src/DSA/Queue/Queue_LL.java</file>
+            <file>file:/C:/Users/mukar/OneDrive/Desktop/Data-Structures-And-Algorithms/src/DSA/Queue/DE_Queue.java</file>
+            <file>file:/C:/Users/mukar/OneDrive/Desktop/Data-Structures-And-Algorithms/src/DSA/Queue/Queue.java</file>
+            <file>file:/C:/Users/mukar/OneDrive/Desktop/Data-Structures-And-Algorithms/src/DSA/Queue/DE_Queue_LL.java</file>
+            <file>file:/C:/Users/mukar/OneDrive/Desktop/Data-Structures-And-Algorithms/src/DSA/Queue/PriorityQueue.java</file>
         </group>
     </open-files>
 </project-private>
